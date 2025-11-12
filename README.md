@@ -20,8 +20,7 @@ Este projeto simula dados realistas do Google Ads e apresenta:
 - **Power BI** (DAX, Relacionamentos, Visualizações)
 - **Google Ads Metrics** (ROAS, CTR, CPC, CPM)
 - **Data Modeling** (Modelo Estrela)
-
-## 📈 Funcionalidades
+- 
 
 ### 🔍 Análises Incluídas
 - Performance por Campanha (ROAS, CTR, CPA)
@@ -36,18 +35,6 @@ Este projeto simula dados realistas do Google Ads e apresenta:
 - **Página 3:** Performance por Canal
 - **Página 4:** Análise de Sazonalidade
 
-## 🚀 Como Usar
-
-### 1. Gerar Dados
-```bash
-python src/Criar_Metricas.py
-python src/Power_BI_Analysis.py
-
-### 📊 Dashboard Power BI
-- **Página 1:** Visão Geral com KPIs
-- **Página 2:** Análise Detalhada por Campanha
-- **Página 3:** Performance por Canal
-- **Página 4:** Análise de Sazonalidade
 
 ### 📸 Screenshots
 | Visão Geral | Análise Campanhas |
