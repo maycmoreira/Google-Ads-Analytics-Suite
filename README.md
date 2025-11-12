@@ -8,7 +8,6 @@ Um projeto completo de análise de dados do Google Ads com dashboard interativo 
 
 ## 📊 Sobre o Projeto
 
-Este projeto simula dados realistas do Google Ads e apresenta:
 - **Pipeline completo** de dados Python → Power BI
 - **Dashboard profissional** com 4 páginas interativas
 - **Análises avançadas** de performance de campanhas
@@ -16,10 +15,11 @@ Este projeto simula dados realistas do Google Ads e apresenta:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python** (Pandas, NumPy, Matplotlib)
-- **Power BI** (DAX, Relacionamentos, Visualizações)
-- **Google Ads Metrics** (ROAS, CTR, CPC, CPM)
-- **Data Modeling** (Modelo Estrela)
+### 🐍 Python (Backend & Análise)
+- **Pandas** - Manipulação e análise de dados
+- **NumPy** - Geração de dados simulados
+- **Matplotlib/Seaborn** - Visualizações e análises
+- **Python-pptx** - Geração de relatórios automáticos
 - 
 
 ### 🔍 Análises Incluídas
