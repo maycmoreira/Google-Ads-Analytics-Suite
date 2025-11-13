@@ -20,7 +20,6 @@ Um projeto completo de análise de dados do Google Ads com dashboard interativo 
 - **NumPy** - Geração de dados simulados
 - **Matplotlib/Seaborn** - Visualizações e análises
 - **Python-pptx** - Geração de relatórios automáticos
-- 
 
 ### 🔍 Análises Incluídas
 - Performance por Campanha (ROAS, CTR, CPA)
